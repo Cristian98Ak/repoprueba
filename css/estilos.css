@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(231, 42, 42);
+    color: white;
+    text-align: center;
+}
+.title{
+    font-size: 80px;
+}
+.container-text{
+    margin: auto;
+}
+.title-text{
+    margin: 10px 10px;
+    display: inline-flex;
+    font-size: 30px;
+}
+.textbox{
+    display: inline-flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+    height: 30px;
+    border: white dashed 1px;
+}
+
+.container-button{
+    margin: auto;
+    width: 300px;
+    height: 400px;
+}
+
+.container-button .box-button{
+    display: inline;    
+}
+.container-button .button{
+    margin: 5px 5px;
+    width: 50px;
+    height: 45px;
+}
